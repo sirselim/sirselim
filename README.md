@@ -8,6 +8,8 @@
   [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3442--965X-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3442-965X) •
 </p>
 
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6615--8677-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6615-8677)
+
 ---
 ✨ I'm a bioinformatician / computational geneticist based in New Zealand.
 
