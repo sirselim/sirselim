@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-sirselim.github.io-informational?style=flat-square&logo=jekyll&logoColor=white)](http://sirselim.github.io/about/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3442--965X-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3442-965X)
-[![Twitter]](https://img.shields.io/badge/Twitter-miles_benton-blue?style=flat-square&logo=orcid&logoColor=white)](https://twitter.com/miles_benton)
+[![Twitter](https://img.shields.io/badge/Twitter-miles_benton-blue?style=flat-square&logo=orcid&logoColor=white)](https://twitter.com/miles_benton)
 
 [![Google](https://img.shields.io/badge/Google-deleted-inactive?style=flat-square&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
 
