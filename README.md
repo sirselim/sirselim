@@ -8,6 +8,7 @@
   [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3442--965X-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3442-965X) •
 </p>
 
+[![Website](https://img.shields.io/badge/Website-sirselim.github.io/about/-informational?style=flat-square&logo=jekyll&logoColor=white)](http://sirselim.github.io/about/)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6615--8677-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6615-8677)
 
 ---
