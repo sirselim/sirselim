@@ -1,6 +1,16 @@
+<head>
+<style>
+.badgeDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+</style>
+</head>
+
 <h3 align="center">👋 Hi there! I'm Miles</h3>
 
-<div class="container">
+<div class="badgeDiv">
 
 [![Website](https://img.shields.io/badge/Website-sirselim.github.io-informational?style=flat-square&logo=jekyll&logoColor=white)](http://sirselim.github.io/about/)
 [![Twitter](https://img.shields.io/badge/Twitter-miles_benton-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/miles_benton)
