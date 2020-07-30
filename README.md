@@ -1,4 +1,11 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Miles</h3>
+<p align="center">
+  <a href="http://sirselim.github.io/about/">Website</a> •
+  <a href="https://twitter.com/miles_benton">Twitter</a>
+</p>
+
+---
+✨ I'm a frontend engineer and technical writer based in Lagos Nigeria.
 
 <!--
 **sirselim/sirselim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
