@@ -1,12 +1,11 @@
-<head>
-<style>
+(setq markdown-xhtml-header-content
+"<style type='text/css'>
 .badgeDiv {
   border: 5px outset red;
   background-color: lightblue;
   text-align: center;
 }
-</style>
-</head>
+</style>")
 
 <h3 align="center">👋 Hi there! I'm Miles</h3>
 
