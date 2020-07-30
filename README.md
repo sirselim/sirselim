@@ -1,7 +1,11 @@
 <h3 align="center">👋 Hi there! I'm Miles</h3>
 <p align="center">
   <a href="http://sirselim.github.io/about/">Website</a> •
-  <a href="https://twitter.com/miles_benton">Twitter</a>
+  <a href="https://twitter.com/miles_benton">Twitter</a> •
+  [![Website](https://img.shields.io/badge/Website-sirselim.github.io/about/-informational?style=flat-square&logo=jekyll&logoColor=white)](http://sirselim.github.io/about/) •
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-miles-benton-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miles-benton-937a1961) •
+  [![Google](https://img.shields.io/badge/Google-deleted-inactive?style=flat-square&logo=google&logoColor=white)](https://github.com/tycrek/degoogle) •
+  [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3442--965X-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3442-965X) •
 </p>
 
 ---
