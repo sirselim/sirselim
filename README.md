@@ -5,7 +5,7 @@
 </p>
 
 ---
-✨ I'm a frontend engineer and technical writer based in Lagos Nigeria.
+✨ I'm a bioinformatician / computational geneticist based in New Zealand.
 
 <!--
 **sirselim/sirselim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
