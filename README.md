@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hi there! I'm Miles</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirselim"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirselim&style=flat-square"> </p>
 
 
 ✨ I'm a bioinformatician / computational geneticist based in Wellington, New Zealand. I am currently working 
