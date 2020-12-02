@@ -1,10 +1,11 @@
 <h3 align="center">👋 Hi there! I'm Miles</h3>
-<p align="left"> <img src="https://hit.yhype.halp.im/github/profile?user_id=5932864" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirselim"> </p>
 
 
 ✨ I'm a bioinformatician / computational geneticist based in Wellington, New Zealand. I am currently working 
 at ESR ([Institute of Environmental Science and Research](www.esr.cri.nz)) as a Senior Bioinformatician. I also 
 dabble at photography and guitar, with a side of coffee, beer and single malts in the mix.
+
 
 [![Website](https://img.shields.io/badge/Website-sirselim.github.io-informational?style=flat-square&logo=jekyll&logoColor=white)](http://sirselim.github.io/about/)
 [![Twitter](https://img.shields.io/badge/Twitter-miles_benton-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/miles_benton)
