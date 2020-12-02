@@ -13,4 +13,4 @@ dabble at photography and guitar, with a side of coffee, beer and single malts i
 [![CV](https://img.shields.io/badge/CV-My_CV-blue?style=flat-square&logo=Read-the-Docs&logoColor=white)](https://sirselim.github.io/Miles_CV/)
 
 
-![](https://hit.yhype.halp.im/github/profile?user_id=5932864)
+[![](https://hit.yhype.halp.im/github/profile?user_id=5932864)
