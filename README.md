@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hi there! I'm Miles</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirselim" alt="sirselim" /> </p>
+<p align="left"> <img src="https://hit.yhype.halp.im/github/profile?user_id=5932864" /> </p>
 
 
 ✨ I'm a bioinformatician / computational geneticist based in Wellington, New Zealand. I am currently working 
@@ -12,5 +12,3 @@ dabble at photography and guitar, with a side of coffee, beer and single malts i
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Miles_Benton-blue?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.co.nz/citations?user=iEhBavEAAAAJ&hl=en)
 [![CV](https://img.shields.io/badge/CV-My_CV-blue?style=flat-square&logo=Read-the-Docs&logoColor=white)](https://sirselim.github.io/Miles_CV/)
 
-
-[![](https://hit.yhype.halp.im/github/profile?user_id=5932864)
