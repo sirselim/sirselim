@@ -9,7 +9,7 @@
 
 
 ✨ I'm a bioinformatician / computational geneticist based in Wellington, New Zealand. I am currently working 
-at ESR ([Institute of Environmental Science and Research](www.esr.cri.nz)) as a Senior Bioinformatician. I also 
+at ESR ([Institute of Environmental Science and Research](https://www.esr.cri.nz)) as a Senior Bioinformatician. I also 
 dabble at photography and guitar, with a side of coffee, beer and single malts in the mix.
 
 I have written and maintiain several documents about GPU compute for Nanopore sequencing that people find helpful, feel free to check them out:
