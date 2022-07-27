@@ -18,7 +18,7 @@ I have written and maintiain several documents about GPU compute for Nanopore se
 * [GPU price / performance comparisons for Nanopore basecalling](https://hackmd.io/xT4PsAnVQO-F7yUXq-RIHw)
 * [Nanopore Guppy GPU basecalling on Windows using WSL2](https://hackmd.io/PrSp6UhqS2qxZ_rKOR18-g#Nanopore-Guppy-GPU-basecalling-on-Windows-using-WSL2)
 * [Nvidia Jetson Xavier Community Gist](https://gist.github.com/sirselim/2ebe2807112fae93809aa18f096dbb94)
-* [Nvidia Jetson Nanopore Sequencing (GitHub Repository](https://github.com/sirselim/jetson_nanopore_sequencing)
+* [Nvidia Jetson Nanopore Sequencing (GitHub Repository](https://github.com/sirselim/jetson_nanopore_sequencing))
 
 You can find out more about me and connect in different ways below:
 
