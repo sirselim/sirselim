@@ -8,8 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirselim&style=flat-square"> </p>
 
 
-I'm a bioinformatician / computational geneticist based in New Zealand. I am currently working as a
-Senior Bioinformatician at [Oxford Nanopore Technologies](https://nanoporetech.com/) in the Singapore - New Zealand Applications Project Support Team. I also dabble at photography and guitar, with a side of coffee, beer and single malts in the mix.
+I'm a bioinformatician / computational geneticist based in New Zealand. I am the Associate Director of the APAC Applications Project Support team at [Oxford Nanopore Technologies](https://nanoporetech.com/). I also dabble at photography and guitar, with a side of coffee, beer and single malts in the mix.
 
 I have written and maintiain several documents about GPU compute for Nanopore sequencing that people find helpful, feel free to check them out:
 
