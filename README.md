@@ -10,7 +10,7 @@
 
 I'm a bioinformatician / computational geneticist based in New Zealand. I am the Associate Director of the APAC Applications Project Support team at [Oxford Nanopore Technologies](https://nanoporetech.com/). I also dabble at photography and guitar, with a side of coffee, beer and single malts in the mix.
 
-I have written and maintiain several documents about GPU compute for Nanopore sequencing that people find helpful, feel free to check them out:
+In a previous life I wrote several documents about GPU compute for Nanopore sequencing that people found helpful, feel free to check them out:
 
 * [GPU musings (with an eye on genomics)](https://hackmd.io/@Miles/B1U-cOMyu)
 * [GPU price / performance comparisons for Nanopore basecalling](https://hackmd.io/xT4PsAnVQO-F7yUXq-RIHw)
@@ -25,14 +25,6 @@ You can find out more about me and connect in different ways below:
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3442--965X-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3442-965X)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Miles_Benton-blue?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.co.nz/citations?user=iEhBavEAAAAJ&hl=en)
 [![CV](https://img.shields.io/badge/CV-My_CV-blue?style=flat-square&logo=Read-the-Docs&logoColor=white)](https://sirselim.github.io/Miles_CV/)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirselim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-
----
 
 ---
 
