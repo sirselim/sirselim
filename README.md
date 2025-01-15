@@ -25,9 +25,3 @@ You can find out more about me and connect in different ways below:
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3442--965X-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3442-965X)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Miles_Benton-blue?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.co.nz/citations?user=iEhBavEAAAAJ&hl=en)
 [![CV](https://img.shields.io/badge/CV-My_CV-blue?style=flat-square&logo=Read-the-Docs&logoColor=white)](https://sirselim.github.io/Miles_CV/)
-
----
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sir_selim&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=sir_selim&redirect=true)
-  
----
